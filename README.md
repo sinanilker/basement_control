@@ -35,7 +35,7 @@ A desktop GUI application for managing and simulating indoor environmental contr
 ## Author
 
 Sinan İlker
-Bircan Kömürcü
-Bükre Öksüz
-Esmeralda Torres
-Utku Arslan
+\nBircan Kömürcü
+\nBükre Öksüz
+\nEsmeralda Torres
+\nUtku Arslan
