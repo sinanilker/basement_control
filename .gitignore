@@ -1,0 +1,41 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Editor configs
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Build artifacts
+dist/
+build/
+*.spec
+*.egg-info/
+*.log
+
+# App bundles and packages
+*.app
+*.exe
+*.zip
+*.dmg
+
+# Node modules (if used for create-dmg)
+node_modules/
+
+# Git LFS tracking
+*.psd
+*.bin
+*.dmg
