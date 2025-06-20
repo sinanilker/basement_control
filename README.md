@@ -21,11 +21,11 @@ A desktop GUI application for managing and simulating indoor environmental contr
 ## Running the App
 
 ### macOS:
-1. Download the `.zip` file from the [Releases](https://github.com/sinanilker/basement-control-system/releases).
+1. Download the `.zip` file from the [Releases](https://github.com/sinanilker/basement_control/releases).
 2. Unzip and run `BasementControlApp`.
 
 ### Windows:
-1. Download the `.exe` or `.zip` from [Releases](https://github.com/sinanilker/basement-control-system/releases).
+1. Download the `.exe` or `.zip` from [Releases](https://github.com/sinanilker/basement_control/releases).
 2. Unzip if needed, and double-click to run the app.
 
 ## Requirements (if running `.py` files)
